@@ -6,4 +6,4 @@ There once were no photo sharing sites, no Flickr, Facebook, SmugMug or Snapchat
 
 # Innovations
 
-Allow online editing of the photo date, title and caption. Most photography at the time was still film so images didn't have that information embedded in them (EXIF).
+Allow online editing of the photo date, title and caption and navigation with a thumbnail strip.
